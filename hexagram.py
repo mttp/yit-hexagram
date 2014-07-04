@@ -96,7 +96,6 @@ def output(boolhex):
             print "---------------"
         else:
             print "-----     -----"
-    print "\n"
     
     static = True
     for i in range(len(boolhex)):
